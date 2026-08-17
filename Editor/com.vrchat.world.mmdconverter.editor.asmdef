@@ -1,0 +1,16 @@
+{
+  "name": "com.vrchat.world.mmdconverter.editor",
+  "rootNamespace": "VRChat.MmdPreview.Editor",
+  "references": [
+    "com.vrchat.world.mmdconverter"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "com.vrchat.world.mmdconverter",
+  "displayName": "VMD Converter",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "license": "Apache-2.0",
+  "description": "World-oriented VMD motion and MikuMikuDanceStation camera converter with managed PMX/VMD parsing, IK solving, Humanoid baking, and PMX parse caching.",
+  "author": {
+    "name": "VeraFirefly"
+  }
+}

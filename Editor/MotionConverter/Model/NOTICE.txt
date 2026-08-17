@@ -1,0 +1,8 @@
+MMD Standard Humanoid Reference Rig
+Copyright 2026 MMD Play Mode Preview contributors
+
+This product includes a mesh-free PMX reference rig whose standard-bone and IK
+positions are calibrated to a local Miku compatibility model. It contains one
+tiny transparent compatibility triangle and material required by the legacy
+PMX2FBX backend, but no character mesh, texture, material, physics, or
+character-specific bones from that model.
